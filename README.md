@@ -1,4 +1,4 @@
-# CS361-Individual-Milestone
+# CS361-Communication-Contract
 Amusement Park Help
 In order to request data from the microservice implemented, the individual project program will send a string to the microservice using socket. 
 The python file working as the client (individual project) will send a string to the python file working as the server or host (microservice). The two files
